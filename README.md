@@ -11,4 +11,6 @@ A clone of the productivity chrome app [Momentum](https://chrome.google.com/webs
 ## Web
 [https://saintsungminpark.github.io/untitled1](https://saintsungminpark.github.io/untitled1)
 
-![ex_screenshot](./screenshot.jpg)
+![ex_screenshot](./screenshot1.JPG)
+![ex_screenshot](./screenshot2.JPG)
+![ex_screenshot](./screenshot3.JPG)
