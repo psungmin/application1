@@ -10,6 +10,6 @@ A clone of the productivity chrome app [Momentum](https://chrome.google.com/webs
 - [x] Daily Photo
 - [x] Offline Support
 
-## Try it out
+## Web
 
 [https://saintsungminpark.github.io/untitled1/](https://saintsungminpark.github.io/untitled1/)
