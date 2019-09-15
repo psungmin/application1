@@ -1,0 +1,79 @@
+body,
+html {
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "helvetica", sans-serif;
+}
+
+html {
+  background: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+body {
+  background-size: cover;
+  background-position: center center;
+  opacity: 0;
+  animation: fadeIn 1s ease-in-out forwards;
+  animation-delay: 0.5s;
+  color: white;
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+}
+
+input {
+  background: none;
+  appearance: none;
+  border: 0;
+  font-size: 22px;
+  color: white;
+  border-bottom: 1px solid rgb(255, 255, 255, 1);
+  width: 300px;
+  margin-top: 20px;
+}
+
+input:hover{
+    opacity: 0.5;
+    transition: opacity ease-in;
+}
+
+input::placeholder {
+  text-align: center;
+  color: rgb(255, 255, 255, 0.5);
+}
+
+input:focus,
+input:active {
+  outline: none;
+}
+
+.to-do {
+    margin-top: 50px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 20px;
+}
