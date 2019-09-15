@@ -10,3 +10,4 @@ A clone of the productivity chrome app [Momentum](https://chrome.google.com/webs
 
 ## Web
 [https://saintsungminpark.github.io/untitled1](https://saintsungminpark.github.io/untitled1)
+![ex_screenshot](/screenshot.jpg)
