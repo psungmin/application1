@@ -15,7 +15,7 @@
 
   .warmWeather {
     font-size: 36px;
-    background: -webkit-linear-gradient(orange, yellow);
+    background: -webkit-linear-gradient(orange, rgb(255, 255, 176));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -23,7 +23,7 @@
 
   .coldWeather {
     font-size: 36px;
-    background: -webkit-linear-gradient(blue, yellow);
+    background: -webkit-linear-gradient(rgb(0, 0, 114), rgb(0, 119, 255));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
