@@ -1,12 +1,7 @@
 .location {
-    opacity: 0.7;
-    transition: opacity 0.3s ease-in;
+    opacity: 0.5;
     font-size: 12px;
     position: absolute;
     bottom: 25px;
     left: 25px;
-  }
-  
-  .location:hover {
-    opacity: 1;
   }

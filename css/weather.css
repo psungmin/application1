@@ -1,7 +1,30 @@
 .weather {
-    position: absolute;
-    font-size: 22px;
-    position: absolute;
-    top: 25px;
-    right: 25px;
+  position: absolute;
+  font-size: 22px;
+  top: 25px;
+  right: 25px;
+}  
+
+  .hotWeather {
+    font-size: 36px;
+    background: -webkit-linear-gradient(red, yellow);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .warmWeather {
+    font-size: 36px;
+    background: -webkit-linear-gradient(orange, yellow);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .coldWeather {
+    font-size: 36px;
+    background: -webkit-linear-gradient(blue, yellow);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
