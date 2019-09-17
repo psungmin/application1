@@ -7,7 +7,7 @@
 
   .hotWeather {
     font-size: 36px;
-    background: -webkit-linear-gradient(red, yellow);
+    background: -webkit-linear-gradient(red, rgb(255, 255, 176));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
