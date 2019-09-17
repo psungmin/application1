@@ -13,4 +13,3 @@ A clone of the productivity chrome app [Momentum](https://chrome.google.com/webs
 
 ![ex_screenshot](./screenshot1.JPG)
 ![ex_screenshot](./screenshot2.JPG)
-![ex_screenshot](./screenshot3.JPG)
