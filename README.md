@@ -1,5 +1,5 @@
 # application1
-a clone of the productivity chrome app [momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) on Vanilla JS
+a clone of the productivity chrome app [momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) on vanilla js
 
 ## features
 - [x] weather with geolocation
