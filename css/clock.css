@@ -2,7 +2,7 @@
     opacity: 0.5;
     font-size: 8em;
     transition: opacity 0.3s ease-in;
-    margin-top: 250px;
+    margin-top: 200px;
   }
 
 .clock:hover {
