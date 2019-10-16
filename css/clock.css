@@ -1,6 +1,6 @@
 .clock {
     opacity: 0.5;
-    font-size: 8em;
+    font-size: 7em;
     transition: opacity 0.3s ease-in;
     margin-top: 125px;
   }
