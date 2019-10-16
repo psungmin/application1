@@ -4,14 +4,20 @@
 
     .toDo {
         font-size: 22px;
-        font-weight: bold;
-        margin-bottom: 15px;
+        font-weight: initial;
+        margin-bottom: 1px;
+        background-color: rgba(255, 255, 255, 0.5);
+        height: 45px;
+        display: flex;
+        align-items: center;
     }
-
+    .js-to-do {
+        margin: 0px;
+    }
     .toDo__button {
-        margin-right: 15px;
+        margin: 10px;
         cursor: pointer;
-        opacity: 0.5;
+        opacity: 0.3;
         transition: opacity ease-in;
     }
 

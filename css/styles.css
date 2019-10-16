@@ -4,3 +4,98 @@
 @import "weather.css";
 @import "center.css";
 @import "todo.css";
+
+@media (max-width: 992px) {
+    .weather {
+        position: absolute;
+        font-size: 12px;
+        top: 25px;
+        right: 25px;
+      }  
+      
+        .hotWeather {
+          font-size: 25px;
+          background: -webkit-linear-gradient(red, rgb(255, 255, 176));
+          background-clip: text;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+        }
+      
+        .warmWeather {
+          font-size: 25px;
+          background: -webkit-linear-gradient(orange, rgb(255, 255, 176));
+          background-clip: text;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+        }
+      
+        .coldWeather {
+          font-size: 25px;
+          background: -webkit-linear-gradient(rgb(0, 0, 114), rgb(0, 119, 255));
+          background-clip: text;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+        }
+    
+    .clock {
+        opacity: 0.5;
+        font-size: 3em;
+        transition: opacity 0.3s ease-in;
+        margin-top: 100px;
+      }
+
+    .center .name__text {
+    font-size: 22px;
+    margin-bottom: 20px;
+    opacity: 0;
+    animation: fadeIn 1s ease-in-out forwards;
+    animation-delay: 0.3s;
+    }
+
+    .center .name__input {
+        appearance: none;
+        background-color: none;
+        border: none;
+        color: white;
+        font-size: 22px;
+        border-bottom: 1px solid rgb(255, 255, 255, 1);
+        margin: 20px 0px 20px 0px;
+        width: 230px;
+      }
+
+    input {
+        background: none;
+        appearance: none;
+        border: 0;
+        font-size: 22px;
+        color: white;
+        border-bottom: 1px solid rgb(255, 255, 255, 1);
+        width: 230px;
+        margin-top: 0px;
+      }
+    
+    .toDo {
+        font-size: 22px;
+        font-weight: initial;
+        margin-bottom: 1px;
+        background-color: rgba(255, 255, 255, 0.5);
+        height: 35px;
+        display: flex;
+        align-items: center;
+    }
+
+    .js-to-do {
+        margin: 0px;
+    }
+
+    .toDo__button {
+        margin: 10px;
+        cursor: pointer;
+        opacity: 0.3;
+        transition: opacity ease-in;
+    }
+
+    .toDo__button:hover {
+        opacity: 1;
+    }
+}

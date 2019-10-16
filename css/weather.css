@@ -1,12 +1,13 @@
 .weather {
   position: absolute;
-  font-size: 22px;
+  font-size: 18px;
   top: 25px;
   right: 25px;
 }  
 
   .hotWeather {
-    font-size: 36px;
+    font-size: 40px;
+    text-align: right;
     background: -webkit-linear-gradient(red, rgb(255, 255, 176));
     background-clip: text;
     -webkit-background-clip: text;
@@ -14,7 +15,8 @@
   }
 
   .warmWeather {
-    font-size: 36px;
+    font-size: 40px;
+    text-align: right;
     background: -webkit-linear-gradient(orange, rgb(255, 255, 176));
     background-clip: text;
     -webkit-background-clip: text;
@@ -22,7 +24,8 @@
   }
 
   .coldWeather {
-    font-size: 36px;
+    font-size: 40px;
+    text-align: right;
     background: -webkit-linear-gradient(rgb(0, 0, 114), rgb(0, 119, 255));
     background-clip: text;
     -webkit-background-clip: text;
