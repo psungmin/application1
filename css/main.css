@@ -1,5 +1,6 @@
 body,
 html {
+  all: unset;
   overflow: auto;
   height: 100%;
   width: 100%;
