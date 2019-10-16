@@ -40,11 +40,13 @@ body {
   display: flex;
   justify-content: center;
 }
+
 #bgVideo {
   position: fixed;
   height: 100%;
   z-index: -1;
 }
+
 input {
   background: none;
   appearance: none;
