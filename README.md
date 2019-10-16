@@ -1,14 +1,14 @@
 # application1
-A clone of the productivity chrome app [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) on Vanilla JS
+a clone of the productivity chrome app [momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) on vanilla js
 
-## Features
-- [x] Weather with Geolocation
-- [x] Clock
-- [x] To Do List
-- [x] Daily Photo
-- [x] Offline Support
+## features
+- [x] weather with geolocation
+- [x] clock
+- [x] to to list
+- [x] daily photo
+- [x] offline support
 
-## Web
+## web
 [https://saintsungminpark.github.io/application1](https://saintsungminpark.github.io/application1)
 
 ![ex_screenshot](./screenshot1.JPG)
