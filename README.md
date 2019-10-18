@@ -8,7 +8,7 @@ a clone of the productivity chrome app [momentum](https://chrome.google.com/webs
 - [x] daily photo
 - [x] offline support
 
-## web
+## demo
 [https://saintsungminpark.github.io/application1](https://saintsungminpark.github.io/application1)
 
 ![ex_screenshot](./screenshot1.jpg)
